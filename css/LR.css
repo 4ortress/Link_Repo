@@ -164,10 +164,10 @@ header .wrapper {
 }
 
 /* .sectionimg. { background-image: url(''); } */
-.sectionimg.urlcodepen { background-image: url('img/CodePen.JPG'); }
-.sectionimg.urlcolorhunt { background-image: url('img/colorhunt.JPG'); }
-.sectionimg.urlcolors { background-image: url('img/colors.JPG'); }
-.sectionimg.urlcolorcodes { background-image: url('img/colorcodes.JPG'); }
+.sectionimg.urlcodepen { background-image: url('../img/CodePen.JPG'); }
+.sectionimg.urlcolorhunt { background-image: url('../img/colorhunt.JPG'); }
+.sectionimg.urlcolors { background-image: url('../img/colors.JPG'); }
+.sectionimg.urlcolorcodes { background-image: url('../img/colorcodes.JPG'); }
 
 .sectionimg.urlpixabay { background-image: url('img/pixabay.JPG'); }
 .sectionimg.urlcoverr { background-image: url('img/coverr.JPG'); }
